@@ -1,0 +1,10 @@
+C:\Сербова А ПИн-119\КРПП 3 курс\ЛБ 1\LB1\LB1\bin\Debug\LB1.exe.config
+C:\Сербова А ПИн-119\КРПП 3 курс\ЛБ 1\LB1\LB1\bin\Debug\LB1.exe
+C:\Сербова А ПИн-119\КРПП 3 курс\ЛБ 1\LB1\LB1\bin\Debug\LB1.pdb
+C:\Сербова А ПИн-119\КРПП 3 курс\ЛБ 1\LB1\LB1\obj\Debug\LB1.csprojAssemblyReference.cache
+C:\Сербова А ПИн-119\КРПП 3 курс\ЛБ 1\LB1\LB1\obj\Debug\LB1.Form1.resources
+C:\Сербова А ПИн-119\КРПП 3 курс\ЛБ 1\LB1\LB1\obj\Debug\LB1.Properties.Resources.resources
+C:\Сербова А ПИн-119\КРПП 3 курс\ЛБ 1\LB1\LB1\obj\Debug\LB1.csproj.GenerateResource.cache
+C:\Сербова А ПИн-119\КРПП 3 курс\ЛБ 1\LB1\LB1\obj\Debug\LB1.csproj.CoreCompileInputs.cache
+C:\Сербова А ПИн-119\КРПП 3 курс\ЛБ 1\LB1\LB1\obj\Debug\LB1.exe
+C:\Сербова А ПИн-119\КРПП 3 курс\ЛБ 1\LB1\LB1\obj\Debug\LB1.pdb
